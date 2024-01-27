@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at [Cegeka](https://www.cegeka.com)
+- 📫 Reach out to me via: [X](https://twitter.com/FizaziMohammed), [LinkedIn](https://www.linkedin.com/in/elfizazi/), [Blog](https://elfizazi.com/).
 <!--
 **elfizazi/elfizazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
